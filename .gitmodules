@@ -1,0 +1,3 @@
+[submodule "rhscl-dockerfiles"]
+	path = rhscl-dockerfiles
+	url = https://github.com/jason-callaway/rhscl-dockerfiles.git
